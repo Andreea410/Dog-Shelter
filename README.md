@@ -46,7 +46,7 @@ Key Features:
 
 ## Getting Started:
 1. **Clone the Repository**:
-git clone https://github.com/Andreea410/Dog-Shelter
+`git clone https://github.com/Andreea410/Dog-Shelter`
 2. **Build and Run the Application**:
 - Open the project in **Visual Studio**.
 - Compile and run the application.
@@ -57,9 +57,6 @@ git clone https://github.com/Andreea410/Dog-Shelter
 
 ## Contributing:
 Feel free to contribute to this project by opening issues or submitting pull requests with bug fixes, features, or improvements. Contributions are always welcome!
-
-## License:
-This project is licensed under the MIT License.
 
 ---
 
